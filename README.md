@@ -15,63 +15,38 @@ A continuación se detalla la organización de los contenidos del módulo según
 
 ```text
 .
-├── 📄 README.md                            # Documentación principal del repositorio
-│
-├── 📂 currículum vítae/                    # Bloque de inserción laboral y marca personal
-│   └── 📄 Modelos CV.pdf                   # Plantillas y guías de referencia de diseño
-│
-├── 📂 Presentatción IPE I/                 # Guías metodológicas del módulo
-│   └── 📄 Presentación IPE I.pdf           # Criterios de evaluación y contenidos
-│
-├── 📂 Tema 1 Salud y Trabajo PRL RA 1/     # Unidad formativa: Fundamentos de salud laboral
-│   ├── 📄 Tema 1 Salud y Trabajo.pdf       # Apuntes teóricos sobre condiciones de trabajo
-│   └── 📂 Actividad 1/                    # Bloque práctico del Tema 1
-│       ├── 🎬 ACTIVIDAD 1 INSPECTORA DE PREVENCIÓN.mp4 # Caso práctico multimedia simulado
-│       └── 📄 benyachraq_ayoub_Ficha_Resumen.pdf       # Análisis técnico y resolución
-│
-├── 📂 Tema 2 Organizacion PRL RA 1/        # Unidad formativa: Gestión de la prevención
-│   ├── 📄 Tema 2 Organizacion PRL RA1.pdf  # Marco legal y derechos del trabajador
-│   └── 📂 Actividad 2/                    # Talleres y entregables de organización preventiva
-│
-└── 📂 Tema 3 Gestión PRL RA 1/             # Unidad formativa: Implementación de la seguridad
-    ├── 📄 Tema 3 Gestión PRL RA1.pdf       # Planes de autoprotección y evaluación de riesgos
-    └── 📂 Actividad 3/                    # Casos de estudio y planes de emergencia aplicados
+├── Actividad 2/                     # Entregables y recursos de la Actividad 2
+├── currículum vítae/               # Bloque de marca personal y búsqueda de empleo
+│   ├── Ayoub_CV.pdf                # Currículum Vitae profesional personalizado
+│   └── Modelos CV.pdf              # Plantillas y ejemplos de referencia
+├── Presentatción IPE I/            # Documentación inicial de la asignatura
+│   └── Presentación IPE I.pdf       # Diapositivas de presentación del módulo
+├── Tema 1 Salud y Trabajo/          # Unidad formativa sobre salud laboral
+│   ├── Tema 1 Salud y Trabajo.pdf   # Apuntes teóricos principales
+│   └── Actividad 1/                # Ejercicios prácticos del Tema 1
+└── Tema 2 Organizacion PRL RA 1/    # Unidad formativa sobre organización preventiva
+    └── Tema 2 Organizacion PRL RA1.pdf # Apuntes de prevención de riesgos (Resultado de Aprendizaje 1)
 ```
 
----
+## 🎯 Contenidos Principales
 
-## 🎯 Resultados de Aprendizaje (RA) y Competencias Adquiridas
+1. **Inserción Laboral y Marca Personal (`currículum vítae/`)**
+   * Diseño, optimización y actualización de CV enfocado al perfil de Desarrollador Web.
+   * Análisis de modelos de reclutamiento eficaces en el sector IT.
 
-### 🧑‍💻 1. Orientación Laboral & Marca Personal
-*   **Diseño Curricular:** Adaptación de currículums técnicos orientados a perfiles *Full-Stack / Front-End / Back-End*.
-*   **Estrategia de Búsqueda:** Identificación de canales de reclutamiento específicos del ecosistema IT (LinkedIn, portales de empleo técnico, comunidades Open Source).
+2. **Salud Laboral (`Tema 1`)**
+   * Estudio de los factores de riesgo en el entorno de trabajo.
+   * Relación directa entre las condiciones laborales, la salud del trabajador y la ergonomía frente al ordenador.
 
-###  2. Salud Laboral y Ergonomía en TI (`Tema 1`)
-*   Evaluación de los factores de riesgo específicos de los profesionales del software (riesgos psicosociales, fatiga visual, trastornos musculoesqueléticos).
-*   Diseño y aplicación de pautas ergonómicas para entornos de desarrollo y teletrabajo.
+3. **Prevención de Riesgos Laborales (`Tema 2`)**
+   * Marco legal de la prevención de riesgos (PRL).
+   * Organización preventiva de la empresa y derechos/deberes de los trabajadores.
 
-### 🏢 3. Organización y Legislación de la PRL (`Tema 2`)
-*   Comprensión del marco normativo (Ley de Prevención de Riesgos Laborales).
-*   Análisis de los modelos organizativos de la prevención dentro de las empresas tecnológicas y representación de los trabajadores.
-
-### 🧯 4. Gestión Operativa de Emergencias (`Tema 3`)
-*   Interpretación y desarrollo de planes de emergencia, evacuación y primeros auxilios.
-*   Metodologías para la evaluación de riesgos en espacios e instalaciones de trabajo.
+## 🛠️ Tecnologías y Entorno
+* **Documentación:** Markdown, PDF.
+* **Perfil Profesional de Destino:** Full-Stack Developer / Front-End / Back-End (DAW).
 
 ---
+*Repositorio académico de uso profesional con fines de aprendizaje y portafolio personal.*
 
-## 🛠️ Herramientas y Estándares Utilizados
-
-*   **Sistemas de Control de Versiones:** Git & GitHub para el versionado de la documentación académica.
-*   **Formatos Estándar:** Documentación técnica estructurada en **Markdown** y archivos **PDF** listos para producción.
-*   **Producción Multimedia:** Formatos de video contenedores (`.mp4`) para la defensa de actividades prácticas.
-
----
-
-## 📝 Autor
-
-*   **Ayoub Ben Yachraq** - *Desarrollador de Aplicaciones Web en Formación*
-
-
-***
-*Este repositorio es de carácter estrictamente académico y profesional, diseñado para actuar como evidencia de aprendizaje y portafolio de competencias transversales.*
+[🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)
