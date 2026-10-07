@@ -1,5 +1,7 @@
 # Plan de Prevención Exprés y Guión de Exposición (Grupo de 3)
 
+[Español](./guion_final_video_prl.md) · [فارسی](./guion_video_prl_farsi.md)
+
 **Asignatura:** Organización de la Prevención (RA1)  
 **Actividad:** Plan de prevención exprés (Vídeo 3-4 min)  
 **Fecha de Entrega/Grabación:** 8 de octubre de 2026  
