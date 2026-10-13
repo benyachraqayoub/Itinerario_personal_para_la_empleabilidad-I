@@ -1,56 +1,60 @@
-# 💼 Itinerario Personal para la Empleabilidad I (IPE I) — DAW
+# Itinerario Personal para la Empleabilidad I (IPE I) — DAW
 
-[![Profile](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/benyachraqayoub)
-[![Academic Project](https://img.shields.io/badge/Academic-Project-blue?logo=readthedocs&logoColor=white)](#)
+<p align="left">
+  <a href="https://github.com/benyachraqayoub"><img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white" alt="Profile"></a>
+  <img src="https://img.shields.io/badge/Academic-Project-blue?logo=readthedocs&logoColor=white" alt="Academic Project">
+</p>
 
 Este repositorio centraliza los materiales oficiales, apuntes teóricos y entregables prácticos correspondientes al módulo de **Itinerario Personal para la Empleabilidad I (IPE I)**, cursado de forma transversal dentro del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**.
 
-El propósito de este espacio es documentar y estructurar mis competencias en orientación sociolaboral, marca personal, legislación laboral y la gestión integral de la **Prevención de Riesgos Laborales (PRL)** enfocada al sector tecnológico.
+El propósito de este espacio es documentar y estructurar las competencias adquiridas en orientación sociolaboral, marca personal, legislación laboral y la gestión integral de la **Prevención de Riesgos Laborales (PRL)** enfocada al sector tecnológico.
 
 ---
 
-## 📚 Acceso directo a temas y actividades
+## 📂 Estructura del Proyecto y Recursos
 
-### Currículum vítae
+### 📄 Identidad y Marca Profesional
+*   **Currículum Vítae:** [Mi CV: Ayoub Ben Yachraq](curr%C3%ADculum%20v%C3%ADtae/Ayoub_CV.pdf)
+*   **Recursos de Apoyo:** [Modelos de CV Alternativos](curr%C3%ADculum%20v%C3%ADtae/Modelos%20CV.pdf)
 
-- [Mi CV: Ayoub Ben Yachraq](curr%C3%ADculum%20v%C3%ADtae/Ayoub_CV.pdf)
-- [Modelos de CV](curr%C3%ADculum%20v%C3%ADtae/Modelos%20CV.pdf)
+### 🗺️ Plan de Estudios y Entregables (PRL)
 
-| Tema | Teoría | Actividades y recursos |
-|---|---|---|
-| Tema 1: Salud y Trabajo | [Apuntes del Tema 1](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Tema%201%20Salud%20y%20Trabajo.pdf) | [Ficha resumen: Actividad 1](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/benyachraq_ayoub_Ficha_Resumen.pdf) · [Vídeo de la actividad](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/ACTIVIDAD%201%20INSPECTORA%20DE%20PREVENCIÓN.mp4) |
-| Tema 2: Organización de la PRL (RA 1) | [Apuntes del Tema 2](Tema%202%20Organizacion%20PRL%20RA%201/Tema%202%20Organizacion%20PRL%20RA1.pdf) | [Ficha resumen: Actividad 1](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/PLAN-DE-PREVENCION-Ficha_Resumen.png) · [Vídeo: Actividad 1 (acceso restringido)](#acceso-video-actividad-1) · Guion del vídeo: [Español](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_final_video_prl.md) · [فارسی](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_video_prl_farsi.md) · [Señalización](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/señal.png) |
-| Tema 3: Gestión de la PRL (RA 1) | [Apuntes del Tema 3](Tema%203%20Gesti%C3%B3n%20PRL%20RA%201/Tema%203%20Gesti%C3%B3n%20PRL%20RA1.pdf) | — |
-| Tema 4: Emergencias (RA 1) | [Apuntes del Tema 4](Tema%204%20Emergencias%20RA%201/Tema%204%20Emergencias%20RA1.pdf) | — |
-
-<a id="acceso-video-actividad-1"></a>
-### Acceso al vídeo de la Actividad 1
-
-> **Acceso denegado.** El vídeo no está disponible por motivos de protección de datos.
-
-## 🎯 Contenidos Principales
-
-1. **Inserción Laboral y Marca Personal (`currículum vítae/`)**
-   * Diseño, optimización y actualización de CV enfocado al perfil de Desarrollador Web.
-   * Análisis de modelos de reclutamiento eficaces en el sector IT.
-
-2. **Salud Laboral (`Tema 1`)**
-   * Estudio de los factores de riesgo en el entorno de trabajo.
-   * Relación directa entre las condiciones laborales, la salud del trabajador y la ergonomía frente al ordenador.
-
-3. **Prevención de Riesgos Laborales (`Tema 2`)**
-   * Marco legal de la prevención de riesgos (PRL).
-   * Organización preventiva de la empresa y derechos/deberes de los trabajadores.
-
-4. **Emergencias y Respuesta ante Incidentes (`Tema 4`)**
-   * Identificación de riesgos y procedimientos de emergencia.
-   * Planificación de actuaciones ante incendios, evacuaciones y situaciones críticas.
-
-## 🛠️ Tecnologías y Entorno
-* **Documentación:** Markdown, PDF.
-* **Perfil Profesional de Destino:** Full-Stack Developer / Front-End / Back-End (DAW).
+| Unidad / Bloque | Material Teórico / Introductorio | Actividades y Recursos Prácticos |
+| :--- | :--- | :--- |
+| **Introducción al Módulo** | [📢 Presentación Oficial IPE I](Presentatci%C3%B3n%20IPE%20I/Presentaci%C3%B3n%20IPE%20I.pdf) | _Marco general del itinerario formativo_ |
+| **Tema 1: Salud y Trabajo** | [📄 Apuntes Tema 1](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Tema%201%20Salud%20y%20Trabajo.pdf) | 📝 [Ficha Resumen (PDF)](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/benyachraq_ayoub_Ficha_Resumen.pdf)<br>🎬 [Vídeo: Inspectora de Prevención](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/ACTIVIDAD%201%20INSPECTORA%20DE%20PREVENCIÓN.mp4) |
+| **Tema 2: Organización de la PRL** | [📄 Apuntes Tema 2](Tema%202%20Organizacion%20PRL%20RA%201/Tema%202%20Organizacion%20PRL%20RA1.pdf) | 📊 [Plan de Prevención Exprés (Imagen)](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/PLAN-DE-PREVENCION-Ficha_Resumen.png)<br>🎬 [Vídeo: Plan de Prevención](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/Actividad%201%20Tema%202-Plan%20de%20prevenci%C3%B3n%20expr%C3%A9s.mp4)<br>🗣️ Guiones: [Español](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_final_video_prl.md) · [فارسی (Farsi)](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_video_prl_farsi.md)<br>⚠️ [Recurso: Señalización](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/se%C3%B1al.png) |
+| **Tema 3: Gestión de la PRL** | [📄 Apuntes Tema 3](Tema%203%20Gesti%C3%B3n%20PRL%20RA%201/Tema%203%20Gesti%C3%B3n%20PRL%20RA1.pdf) | _Unidad en desarrollo_ |
+| **Tema 4: Emergencias** | [📄 Apuntes Tema 4](Tema%204%20Emergencias%20RA%201/Tema%204%20Emergencias%20RA1.pdf) | _Unidad en desarrollo_ |
 
 ---
-*Repositorio académico de uso profesional con fines de aprendizaje y portafolio personal.*
 
-[🏠 Volver al Perfil de GitHub](https://github.com/benyachraqayoub)
+## 🎯 Bloques de Competencia Principal
+
+1. **Inserción Laboral y Marca Personal**
+   * Diseño, optimización y adaptación de la trayectoria profesional enfocada al sector IT.
+   * Análisis de dinámicas de reclutamiento y perfiles técnicos más demandados.
+
+2. **Salud Laboral y Ergonomía**
+   * Evaluación de factores de riesgo en espacios de trabajo digitales.
+   * Promoción del bienestar físico y prevención del desgaste derivados del trabajo intensivo frente a pantallas (VDT).
+
+3. **Gobernanza y Organización Preventiva**
+   * Estudio del marco normativo vigente en materia de prevención de riesgos (PRL).
+   * Derechos y obligaciones legales en el entorno corporativo y el teletrabajo.
+
+4. **Planes de Emergencia y Respuesta Activa**
+   * Protocolos de actuación frente a contingencias e incidentes críticos.
+   * Estrategias de evacuación y primeros auxilios organizacionales.
+
+---
+
+## 🛠️ Tecnologías aplicadas
+* **Formatos de Documentación:** Markdown (`.md`), Portable Document Format (`.pdf`).
+* **Enfoque de Salida Profesional:** Full-Stack Developer / Front-End / Back-End.
+
+---
+<p align="center">
+  <i>Repositorio de carácter académico orientado al desarrollo profesional y portafolio técnico.</i><br><br>
+  <a href="https://github.com">💼 Volver al Perfil Principal de GitHub</a>
+</p>
