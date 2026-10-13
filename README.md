@@ -21,6 +21,7 @@ El propósito de este espacio es documentar y estructurar mis competencias en or
 | Tema 1: Salud y Trabajo | [Apuntes del Tema 1](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Tema%201%20Salud%20y%20Trabajo.pdf) | [Ficha resumen: Actividad 1](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/benyachraq_ayoub_Ficha_Resumen.pdf) · [Vídeo de la actividad](Tema%201%20Salud%20y%20Trabajo%20PRL%20RA%201/Actividad%201/ACTIVIDAD%201%20INSPECTORA%20DE%20PREVENCIÓN.mp4) |
 | Tema 2: Organización de la PRL (RA 1) | [Apuntes del Tema 2](Tema%202%20Organizacion%20PRL%20RA%201/Tema%202%20Organizacion%20PRL%20RA1.pdf) | [Ficha resumen: Actividad 1](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/PLAN-DE-PREVENCION-Ficha_Resumen.png) · [Vídeo: Actividad 1 (acceso restringido)](#acceso-video-actividad-1) · Guion del vídeo: [Español](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_final_video_prl.md) · [فارسی](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_video_prl_farsi.md) · [Señalización](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/señal.png) |
 | Tema 3: Gestión de la PRL (RA 1) | [Apuntes del Tema 3](Tema%203%20Gesti%C3%B3n%20PRL%20RA%201/Tema%203%20Gesti%C3%B3n%20PRL%20RA1.pdf) | — |
+| Tema 4: Emergencias (RA 1) | [Apuntes del Tema 4](Tema%204%20Emergencias%20RA%201/Tema%204%20Emergencias%20RA1.pdf) | — |
 
 <a id="acceso-video-actividad-1"></a>
 ### Acceso al vídeo de la Actividad 1
@@ -40,6 +41,10 @@ El propósito de este espacio es documentar y estructurar mis competencias en or
 3. **Prevención de Riesgos Laborales (`Tema 2`)**
    * Marco legal de la prevención de riesgos (PRL).
    * Organización preventiva de la empresa y derechos/deberes de los trabajadores.
+
+4. **Emergencias y Respuesta ante Incidentes (`Tema 4`)**
+   * Identificación de riesgos y procedimientos de emergencia.
+   * Planificación de actuaciones ante incendios, evacuaciones y situaciones críticas.
 
 ## 🛠️ Tecnologías y Entorno
 * **Documentación:** Markdown, PDF.
