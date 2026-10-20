@@ -14,7 +14,7 @@
 * **TODOS (A la vez):** "¡Hola!"
 * **Persona A:** "Hoy es **19 de octubre de 2026**. Somos alumnos de Formación Profesional en el centro Digitech."
 * **Persona B:** "Estamos realizando la evidencia del RA1 de IPE I: la Evaluación de Riesgos Exprés."
-* **Persona C:** "Y la palabra clave del día asignada por nuestro profesor es: **[Introduce la palabra clave aquí]**."
+* 
 *(Los tres se separan y se colocan en sus respectivas posiciones de rol).*
 
 ---
@@ -37,20 +37,16 @@
 ### ESCENA 3: El Empresario / Director del Centro (Rol de Persona B)
 * **Acción:** La cámara enfoca a Persona B, quien actúa con tono serio y responsable.
 * **Persona B (Empresario):**
-  "Como empresario y máximo responsable de la seguridad en este centro, asumo los resultados de esta evaluación. 
-
-  Atendiendo al Real Decreto 39/1997 y dado el tamaño de nuestro centro educativo, nuestra modalidad organizativa es un **Servicio de Prevención Ajeno**. Por ello, contamos con técnicos externos debidamente cualificados para auditar y firmar este documento.
-
-  Para dar respuesta a este riesgo de prioridad 2, he aprobado una medida preventiva inmediata utilizando los recursos materiales del centro: vamos a instalar **organizadores y bandejas plásticas fijadas bajo las mesas** para elevar las regletas del suelo. Además, queda prohibido por política del centro conectar más de 3 equipos por base y queda totalmente prohibido encadenar una regleta dentro de otra."
+"como director del centro, soy el responsable de la seguridad de todos.Como somos un centro educativo, contratamos a una empresa externa especializada para que controle la seguridad y firme este documento.
+Para solucionar este riesgo rápido, ya he aprobado una medida: vamos a poner organizadores y bandejas de plástico debajo de las mesas para levantar todos los cables del suelo. Además, por norma del centro, no se pueden conectar más de 3 ordenadores en un mismo enchufe múltiple y está totalmente prohibido enchufar una regleta dentro de otra."
 
 ---
 
 ### ESCENA 4: El Trabajador (Rol de Persona C)
 * **Acción:** La cámara enfoca a Persona C sentado al lado de su ordenador portátil.
 * **Persona C (Trabajador):**
-  "Como trabajador y alumno en este espacio, mi derecho fundamental es recibir un entorno seguro, pero también tengo la **obligación legal de colaborar** con las medidas preventivas dictadas por la dirección.
-
-  Mi compromiso a partir de hoy es cumplir estrictamente estas normas de seguridad: utilizaré correctamente los nuevos organizadores de cables bajo la mesa, no forzaré las tomas y, si noto que alguna regleta se calienta en exceso o parpadea, avisaré de inmediato al equipo de mantenimiento sin manipular los dispositivos eléctricos por mi cuenta."
+  "Como alumno y trabajador aquí, tengo derecho a estar en un sitio seguro, pero también tengo la obligación de cumplir las normas de seguridad.
+A partir de hoy, me comprometo a cumplir estas reglas: voy a usar bien las bandejas de plástico para los cables debajo de la mesa y no voy a forzar los enchufes. Además, si veo que una regleta se calienta o parpadea, avisaré rápido a mantenimiento y no tocaré los cables por mi cuenta."
 
 ---
 
