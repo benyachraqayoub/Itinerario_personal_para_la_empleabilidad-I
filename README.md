@@ -26,6 +26,7 @@ El propósito de este espacio es documentar y estructurar las competencias adqui
 | **Tema 2: Organización de la PRL** | [📄 Apuntes Tema 2](Tema%202%20Organizacion%20PRL%20RA%201/Tema%202%20Organizacion%20PRL%20RA1.pdf) | 📊 [Plan de Prevención Exprés (Imagen)](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/PLAN-DE-PREVENCION-Ficha_Resumen.png)<br>🎬 [Vídeo: Plan de Prevención](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/Actividad%201%20Tema%202-Plan%20de%20prevenci%C3%B3n%20expr%C3%A9s.mp4)<br>🗣️ Guiones: [Español](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_final_video_prl.md) · [فارسی (Farsi)](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/guion_video_prl_farsi.md)<br>⚠️ [Recurso: Señalización](Tema%202%20Organizacion%20PRL%20RA%201/Actividad%201/se%C3%B1al.png) |
 | **Tema 3: Gestión de la PRL** | [📄 Apuntes Tema 3](Tema%203%20Gesti%C3%B3n%20PRL%20RA%201/Tema%203%20Gesti%C3%B3n%20PRL%20RA1.pdf) | _Unidad en desarrollo_ |
 | **Tema 4: Emergencias** | [📄 Apuntes Tema 4](Tema%204%20Emergencias%20RA%201/Tema%204%20Emergencias%20RA1.pdf) | _Unidad en desarrollo_ |
+| **Tema 5: Salud Psicosocial** | [📄 Apuntes Tema 5](Tema%205%20Salud%20psicosocial%20RA1/Tema%205%20Salud%20psicosocial%20RA6.pdf) | _Unidad en desarrollo_ |
 
 ---
 
@@ -46,6 +47,10 @@ El propósito de este espacio es documentar y estructurar las competencias adqui
 4. **Planes de Emergencia y Respuesta Activa**
    * Protocolos de actuación frente a contingencias e incidentes críticos.
    * Estrategias de evacuación y primeros auxilios organizacionales.
+
+5. **Salud Psicosocial y Bienestar en el Trabajo**
+   * Identificación de factores de riesgo psicosocial y sus efectos sobre la salud mental y emocional.
+   * Promoción de entornos laborales saludables, equilibrio entre vida personal y profesional y prevención del estrés.
 
 ---
 
