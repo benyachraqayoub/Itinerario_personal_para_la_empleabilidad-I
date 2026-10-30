@@ -8,10 +8,6 @@
 
 Guía de preguntas y respuestas para estudiar, contrastada con los cinco PDF teóricos. Las preguntas de los temas 2–5 reflejan el repaso del profesor; el **Tema 1 no aparece en la grabación**, así que esa sección se basa en su PDF y no se atribuye al profesor.
 
-| Fuente | Enlace |
-|---|---|
-| 🎙️ Repaso del profesor | [Transcripción del vídeo](./transcripcion_reunion.md) |
-
 > 🔎 **Cómo usar esta guía:** contesta primero cada pregunta sin mirar la respuesta y después comprueba los conceptos destacados. La transcripción es automática; las preguntas se han redactado de forma legible y no siempre son citas literales.
 
 ## 🧭 Índice
