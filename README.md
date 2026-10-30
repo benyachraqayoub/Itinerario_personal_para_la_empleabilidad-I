@@ -30,6 +30,14 @@ El propósito de este espacio es documentar y estructurar las competencias adqui
 
 ---
 
+## 📝 Repaso del examen de PRL
+
+Consulta la [guía rápida de repaso](Examen/preguntas.md), con los conceptos clave, esquemas visuales y un ejemplo práctico. Incluye salud y riesgos laborales, organismos, responsabilidades, EPI/EPC y el plan de prevención; la transcripción original se conserva en un apartado desplegable.
+
+🔵 **Conceptos** · 🟢 **Ejemplos** · 🟠 **Prioridades del examen**
+
+---
+
 ## 🎯 Bloques de Competencia Principal
 
 1. **Inserción Laboral y Marca Personal**
